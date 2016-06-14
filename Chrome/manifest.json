@@ -9,7 +9,6 @@
 
   "permissions": [
     "storage",
-    "tabs",
     "https://trello.com/*"
   ],
 
